@@ -59,7 +59,7 @@ Installation into Xcode is available via Cocoapods. For Cocopods documentation a
 	  - Open up the newly created XCWorkspace
 - Full access is now granted in the Assets Hierarchy
 
-# Proprietary/Privately owned engines – For in depth personalized assistance, please visit https://www.spectatar.co
+## Proprietary/Privately owned engines – For in depth personalized assistance, please visit https://www.spectatar.co
 
 For Proprietary/Privately owned engines, there are two options for easy integration since we may not be familiar with the engine being used for your game. 
 
@@ -71,38 +71,42 @@ SpectatAR can easily host your game with full access to the Games Models (Assets
 **Option 2:** 
 
 For manual installation, SpectatAR will require: 
-- The Game Engine and accompanying literature to better understand the engines structure and game implementation. 
-- The Game/Scene Levels along with all models as a .zip extension. 
-- API with all player data endpoints.
-- An in depth response to the following questions to be emailed to info@spectatar.co
+- The Game Engine and supplementary literature to better understand the engines structure and game implementation
+- The Game/Scene Levels along with all models as a .zip extension
+- API with all player data endpoints
 
+**An in depth response to the following questions to be emailed to info@spectatar.co**
+
+- Company/Game name along with all pertinent information
 - Engine platform being used  (General Overview)
 - Is it publicly available? If not, are we able to get access and permissions?
 - What are the main coding languages used for game logic? (C++ and C#)
-- What format are the assets? (Fbx, Dae)
+- What format are the assets? (fbx, dae)
 - What format or how are the VFX’s built? (Blueprints, Prefabs, Custom Particle/Shader systems)
 - What platform are the Multiplayer servers hosted on? (AWS, Proprietary) 
 - How many maps are currently played on or are planned to be introduced?
 - What scale are the maps in? (World to Meters)
 - What Frames per Second do the games run in? (30fps, 60 fps, somewhere in between?)
 
-# OUR TEAM - https://www.spectatar.co/team
+## OUR TEAM - https://www.spectatar.co/team
 
 <img src="images/Brantley.png" width=100>
 
-Brantley Pace Co-founder / CEO
+**Brantley Pace Co-founder / CEO**
 
 <img src="images/Beau.png" width=100>
 
-Beau Bergman Co-founder / COO
+**Beau Bergman Co-founder / COO**
 
 <img src="images/JJ.png" width=100>
 
-JJ McMillen Co-founder / Design
+**JJ McMillen Co-founder / Design**
 
 <img src="images/Charlie.png" width=100>
 
-Charlie Arcodia Co-founder / CTO
+**Charlie Arcodia Co-founder / CTO**
+
+
 
 **For all questions and/or to setup a company and game interview for integration, please visit https://www.spectatar.co and click on info@spectatar.co**
 
