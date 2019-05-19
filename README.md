@@ -13,7 +13,7 @@ The future of spectating your favorite Triple A titles is here! Simple Game inte
 - Proprietary/Privately owned engines
 
 ## How it works
-Spectatar is the first solution that enables game developers to broadcast their games in augmented reality. Watch your favorite esports and games in AR on Spectatar.SpectatAR is a Broadcasting/Viewership tool that uses Augmented Reality to give an in depth and fully customizable experience to the game spectating enthusiast as well as professional broadcasters in Augmented Reality.  Gone are the days where viewers are locked into player cameras. SpectatAR gives the viewers full control and exploration of the map to get right in the action. 
+SpectatAR is the first solution that enables game developers to broadcast their games in augmented reality. Watch your favorite esports and games in AR on SpectatAR. SpectatAR is a Broadcasting/Viewership tool that uses Augmented Reality to give an in depth and fully customizable experience to the game spectating enthusiast as well as professional broadcasters in Augmented Reality.  Gone are the days where viewers are locked into player cameras. SpectatAR gives the viewers full control and exploration of the map to get right in the action. 
 
 ##  SpectatAR Stack – Currently on iOS
 
