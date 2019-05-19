@@ -1,4 +1,6 @@
 
+<img src="images/black_SP_logo@3x.png" width=400>
+
 # SpectatAR Integration Guide - https://www.spectatar.co
 
 The future of spectating your favorite Triple A titles is here! Simple Game integration to be broadcasted and/or viewed in Augmented Reality for Private, Professional and Esport titles. 
