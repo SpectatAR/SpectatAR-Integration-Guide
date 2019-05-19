@@ -86,7 +86,23 @@ For manual installation, SpectatAR will require:
 - What scale are the maps in? (World to Meters)
 - What Frames per Second do the games run in? (30fps, 60 fps, somewhere in between?)
 
+# OUR TEAM - https://www.spectatar.co/team
 
+<img src="images/Brantley.png" width=100>
+
+Brantley Pace Co-founder / CEO
+
+<img src="images/Beau.png" width=100>
+
+Beau Bergman Co-founder / COO
+
+<img src="images/JJ.png" width=100>
+
+JJ McMillen Co-founder / Design
+
+<img src="images/Charlie.png" width=100>
+
+Charlie Arcodia Co-founder / CTO
 
 **For all questions and/or to setup a company and game interview for integration, please visit https://www.spectatar.co and click on info@spectatar.co**
 
