@@ -48,6 +48,16 @@ Due to the unique nature of Unity 2019.3.0a2 and the use of Prefabs for scene bu
 
 Installation into Xcode is available via Cocoapods. For Cocopods documentation and installation into the terminal, visit https://cocoapods.org
 
+**Sudo**
+
+- $ sudo gem install cocoapods
+
+**Sudo-less installation**
+
+If you do not want to grant RubyGems admin privileges for this process, you can tell RubyGems to install into your user directory by passing either the --user-install flag to gem install or by configuring the RubyGems environment. The latter is in our opinion the best solution. To do this open up terminal and create or edit your .bash_profile with your preferred editor. Then enter these lines into the file:
+- export GEM_HOME=$HOME/.gem
+- export PATH=$GEM_HOME/bin:$PATH
+
 - Navigate to the Terminal
 - CD into the main project’s directory
 	  - pod init
@@ -108,7 +118,19 @@ For manual installation, SpectatAR will require:
 
 
 
-**For all questions and/or to setup a company and game interview for integration, please visit https://www.spectatar.co and click on info@spectatar.co**
+**For all questions and/or to setup a company and game interview for integration, please visit https://www.spectatar.co and click on info@spectatar.co**			       
+
+
+
+ 
+
+
+			       
+
+
+
+ 
+
 
 
 
