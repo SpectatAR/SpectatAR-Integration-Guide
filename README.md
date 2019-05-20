@@ -41,7 +41,7 @@ Due to the unique nature of Unity 2019.3.0a2 and the use of Prefabs for scene bu
 - Navigate to the main development environment
 - Select the Assets tab in the top Browser tool bar
 - Select Import Package
-- Navigate to the SpectatAR .unity file and import. 
+- Navigate to the SpectatAR .unity file and import
 - Restart Unity
 - Full access is now granted in the Assets Hierarchy
 
@@ -62,43 +62,48 @@ If you do not want to grant RubyGems admin privileges for this process, you can 
 
 - Navigate to the Terminal
 - CD into the main project’s directory
-	  - pod init
-	  - ls
-	  - vi PodFile
-  > - pod ‘SpectatAR’
-	  - Run the installation
-	  - Close the current Xcode project
-	  - Open up the newly created XCWorkspace
+- Run pod init
+- Run ls
+- Run vi PodFile
+> - Insert pod ‘SpectatAR’
+- Run the installation
+- Close the current Xcode project
+- Open up the newly created XCWorkspace
 - Full access is now granted in the Assets Hierarchy
 
 ## Proprietary/Privately owned engines – For in depth personalized assistance, please visit https://www.spectatar.co
 
-For Proprietary/Privately owned engines, there are two options for easy integration since we may not be familiar with the engine being used for your game. 
+For Proprietary/Privately owned engines, there are two options for easy integration due to the unique nature of exclusive engines. 
 
 **Option 1:** 
-For hands free installation, SpectatAR will require:
+
+- For hands free installation:
 
 SpectatAR can easily host your game with full access to the Games Models (Assets, Textures and Meshes), Animations and Particles systems. Along with the assets, an endpoint with access to Telemetry data is needed. Telemetry data should be in JavaScript Object Notation (JSON) and include all pertinent player and game data. This is easily achievable by giving SpectatAR access to the builds Repository. 
 
 **Option 2:** 
 
-For manual installation, SpectatAR will require: 
+- For manual installation: 
+
 - The Game Engine and supplementary literature to better understand the engines structure and game implementation
-- The Game/Scene Levels along with all models as a .zip extension
+- The Game/Scene Levels along with all models as a .zip/rar extension
 - API with all player data endpoints
 
-**An in depth response to the following questions to be emailed to info@spectatar.co**
+**An in-depth response to the following questions to be emailed to info@spectatar.co**
 
-- Company/Game name along with all pertinent information
-- Engine platform being used  (General Overview)
+- Company/Game name along with all relevant information
+- Engine platform being used (General Overview)
 - Is it publicly available? If not, are we able to get access and permissions?
 - What are the main coding languages used for game logic? (C++ and C#)
 - What format are the assets? (fbx, dae)
 - What format or how are the VFX’s built? (Blueprints, Prefabs, Custom Particle/Shader systems)
 - What platform are the Multiplayer servers hosted on? (AWS, Proprietary) 
-- How many maps are currently played on or are planned to be introduced?
+- How many maps are currently played on?
 - What scale are the maps in? (World to Meters)
 - What Frames per Second do the games run in? (30fps, 60 fps, somewhere in between?)
+- How many Monthly Active users on average?
+
+**Thank you and we look forward to collaborating with you.**
 
 ## OUR TEAM - https://www.spectatar.co/team
 
@@ -125,7 +130,9 @@ For manual installation, SpectatAR will require:
 - LinkedIn: https://www.linkedin.com/company/spectatar/about/
 
 
-**For all questions and/or to setup a company and game interview for integration, please visit https://www.spectatar.co and click on info@spectatar.co**			
+
+
+**For all questions and/or to setup a game integration interview, please visit https://www.spectatar.co and click on info@spectatar.co**			       
 
 
  
