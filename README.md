@@ -3,7 +3,7 @@
 
 # SpectatAR Integration Guide - https://www.spectatar.co
 
-The future of spectating your favorite Triple A titles is here! Simple Game integration to be broadcasted and/or viewed in Augmented Reality for Private, Professional and Esport titles. 
+The future of spectating your favorite Triple A titles is here! Simple game integration to be broadcasted and/or viewed in Augmented Reality for Private, Professional and Esport titles. 
 
 ## Engine Support
 
@@ -13,7 +13,7 @@ The future of spectating your favorite Triple A titles is here! Simple Game inte
 - Proprietary/Privately owned engines
 
 ## How it works
-SpectatAR is the first solution that enables game developers to broadcast their games in augmented reality. Watch your favorite esports and games in AR on Spectatar. SpectatAR is a Broadcasting/Viewership tool that uses Augmented Reality to give an in depth and fully customizable experience to the game spectating enthusiast as well as professional broadcasters in Augmented Reality.  Gone are the days where viewers are locked into player cameras. SpectatAR gives the viewers full control and exploration of the map to get right in the action. 
+SpectatAR is the first solution that enables game developers to broadcast their games in augmented reality. Watch your favorite esports and games in AR on SpectatAR. SpectatAR is a Broadcasting/Viewership tool that uses Augmented Reality to give an in depth and fully customizable experience to the game spectating enthusiast as well as professional broadcasters in Augmented Reality.  Gone are the days where viewers are locked into player cameras. SpectatAR gives the viewers full control and exploration of the map to get right in the action. 
 
 ##  SpectatAR Stack – Currently on iOS
 
@@ -48,15 +48,15 @@ Due to the unique nature of Unity 2019.3.0a2 and the use of Prefabs for scene bu
 
 ## SceneKit 5.0
 
-Installation into Xcode is available via Cocoapods. For Cocopods documentation and installation into the terminal, visit https://cocoapods.org
+Installation into Xcode is available via CocoaPods. For CocoaPods documentation and installation into the terminal, visit https://cocoapods.org
 
 **Sudo**
 
-- $ sudo gem install cocoapods
+- $ sudo gem install CocoaPods
 
 **Sudo-less installation**
 
-If you do not want to grant RubyGems admin privileges for this process, you can tell RubyGems to install into your user directory by passing either the --user-install flag to gem install or by configuring the RubyGems environment. The latter is in our opinion the best solution. To do this open up terminal and create or edit your .bash_profile with your preferred editor. Then enter these lines into the file:
+If you do not want to grant RubyGems admin privileges for this process, you can tell RubyGems to install into your user directory by passing either the --user-install flag to gem install or by configuring the RubyGems environment. The latter is, in our opinion, the best solution. To do this open up terminal and create or edit your .bash_profile with your preferred editor. Then enter these lines into the file:
 
 - export GEM_HOME=$HOME/.gem
 - export PATH=$GEM_HOME/bin:$PATH
@@ -130,9 +130,8 @@ The Game Engine and supplementary literature will be needed to better understand
 
 
 
-**For all questions and/or to setup a game integration interview, please visit https://www.spectatar.co and click on info@spectatar.co**			       
+**For all questions and/or to setup a game integration interview, please visit https://www.spectatar.co and click on info@spectatar.co**
 
- 
 
 
 			       
