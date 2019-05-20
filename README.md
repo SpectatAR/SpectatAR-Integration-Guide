@@ -57,9 +57,9 @@ Installation into Xcode is available via Cocoapods. For Cocopods documentation a
 **Sudo-less installation**
 
 If you do not want to grant RubyGems admin privileges for this process, you can tell RubyGems to install into your user directory by passing either the --user-install flag to gem install or by configuring the RubyGems environment. The latter is in our opinion the best solution. To do this open up terminal and create or edit your .bash_profile with your preferred editor. Then enter these lines into the file:
+
 - export GEM_HOME=$HOME/.gem
 - export PATH=$GEM_HOME/bin:$PATH
-
 - Navigate to the Terminal
 - CD into the main project’s directory
 - Run pod init
@@ -85,9 +85,7 @@ SpectatAR can easily host your game with full access to the Games Models (Assets
 
 - For manual installation: 
 
-- The Game Engine and supplementary literature to better understand the engines structure and game implementation
-- The Game/Scene Levels along with all models as a .zip/rar extension
-- API with all player data endpoints
+The Game Engine and supplementary literature will be needed to better understand the engines structure and game implementation. Along with the Game/Scene Levels and all models as a .zip/.rar extension. Lastly, an API with all player data endpoints with supplementary documentation. 
 
 **An in-depth response to the following questions to be emailed to info@spectatar.co**
 
@@ -133,7 +131,6 @@ SpectatAR can easily host your game with full access to the Games Models (Assets
 
 
 **For all questions and/or to setup a game integration interview, please visit https://www.spectatar.co and click on info@spectatar.co**			       
-
 
  
 
