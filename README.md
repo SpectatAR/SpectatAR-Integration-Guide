@@ -101,7 +101,7 @@ The Game Engine and supplementary literature will be needed to better understand
 
 **Thank you and we look forward to collaborating with you.**
 
-## OUR TEAM - https://www.spectatar.co/team
+## Our Team - https://www.spectatar.co/team
 
 <img src="images/Brantley.png" width=100>
 
