@@ -15,12 +15,6 @@ The future of spectating your favorite Triple A titles is here! SpectatAR is an 
 ## How it works
 SpectatAR is the first solution that enables game developers to broadcast their games in augmented reality. The SpectatAR platform is a Broadcasting/Viewership tool that uses Augmented Reality to give an in-depth and fully customizable experience to the game spectating enthusiast as well as to professional broadcasters/producers. Gone are the days where viewers are locked into player cameras. SpectatAR gives viewers full control and exploration of the map to get right in the action. For esports broadcasters, game developers, and publishers, the SpectatAR livestreaming platform lets you produce groundbreaking high-fidelity 3D spectating experiences from any perspective.
 
-## SpectatAR Stack – Currently on iOS
-
-- Xcode 10.2.1 on top of Swift 5.0
-- Node.JS - 12.2.0
-- ARKit 2 - https://developer.apple.com/arkit/
-
 ## Platform Overview
 
 The SpectatAR solution allows developers to easily integrate their games into an augmented reality viewership platform, hosted by SpectatAR on Amazon's game tech cloud infrastructure. Depending on your game engine, SpectatAR provides an easy-to-use plugin to automatically capture game content and create a AR broadcast. We also offer customized integrations for proprietary engines. 
